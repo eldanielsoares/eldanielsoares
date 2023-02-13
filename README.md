@@ -1,4 +1,4 @@
-## Olá eu sou Daniel Soares, sou um dev frontend atualmente trabalhando com React Native!
+## Olá eu sou Daniel Soares, sou um dev frontend atualmente trabalhando com React Native e ReactJs!
 
 <div align="center">
   <a href="https://github.com/eldanielsoares">
